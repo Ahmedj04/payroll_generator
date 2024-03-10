@@ -4,14 +4,10 @@ import React, { useRef } from 'react'
 // imports to download the page into pdf
 import jsPDF from 'jspdf';
 import html2canvas from 'html2canvas';
-// import { Inter } from "next/font/google";
 
-// const inter = Inter({ subsets: ["latin"] });
 import data from '../utils/data.json'
 
 export default function Home() {
-
-  console.log(data.company_name)
 
   const pdfRef = useRef();
 
