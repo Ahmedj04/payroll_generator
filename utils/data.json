@@ -1,0 +1,31 @@
+{
+    "company_name": "VitCamp IT Solutions",
+    "company_address": "Shamasabad Sector 3A Srinagar Jammu and Kashmir 190018 India",
+    "company_logo": "/vitcamplogo.png",
+    "employee_name": "Sahil Hussain Dar, VCIS0005",
+    "employee_designation": "Software Developer",
+    "date_of_joining": "05/10/2021",
+    "pay_period": "February 2024",
+    "pay_date": "29/03/2024",
+    "bank_account_no": "0315040100010015",
+    "paid_days": "24.5",
+    "lop_days": "4.5",
+    "earnings": {
+        "basic_amount": "₹6,997.00",
+        "basic_ytd": "₹70,194.00",
+        "fixed_allowance_amount": "₹6,997.00",
+        "fixed_allowance_ytd": "₹70,194.00",
+        "leave_encashment_amount": "-",
+        "leave_encashment_ytd": "₹70,194.00",
+        "bonus_amount": "-",
+        "bonus_ytd": "₹70,194.00",
+        "commission_amount": "-",
+        "commission_ytd": "₹70,194.00",
+        "gross_earnings_amount": "₹13,994.00",
+        "gross_earnings_ytd": " ",
+        "total_deductions_amount": "₹0.00",
+        "total_deductions_ytd": " ",
+        "total_net_pay": "₹13,994.00",
+        "total_net_pay_inwords": "Thirteen Thousand Nine Hundred Ninety-Four"
+    }
+}
